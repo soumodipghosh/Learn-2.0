@@ -26,7 +26,7 @@ const Feature = () => {
         ))}
       </div>
     </div>
-  )
+    )
 }
 
 export default Feature
