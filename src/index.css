@@ -3,6 +3,6 @@
 @import "tailwindcss";
 
 :root{
-  font-family: "poppins",sans-serif;
   color-scheme: dark;
+  font-family:Arial, Helvetica, sans-serif;
 }
